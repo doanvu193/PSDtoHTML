@@ -1,6 +1,6 @@
 
  <h3 align="center">Cắt PSD sang HTML</h3>
-Yêu cầu:
+Yêu cầu:<br>
 * Code giao diện hiển thị tốt trên Chrome, Firefox<br>
 * Giao diện hiển thị Responsive<br>
 * Code theo Mobile first hay Desktop first đều được<br>
